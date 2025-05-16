@@ -3,7 +3,6 @@
 ## About me
 
 ### Latest Stepick 
-![Flutter](https://img.shields.io/badge/any_text-you_like-blue)
 ![SQL](https://img.shields.io/badge/SQL-090909?logo=mysql)
 ![Postman](https://img.shields.io/badge/Postman-090909?logo=postman)
 ![Python](https://img.shields.io/badge/Python-090909?logo=python)
