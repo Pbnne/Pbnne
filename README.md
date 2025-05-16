@@ -11,7 +11,7 @@
 
 ### Follow Me
 
-![Stepik](https://img.shields.io/badge/Stepik-090909?logo=stepik)
-![SQL Academy](https://img.shields.io/badge/SQL%20Academy-090909?logo=database)
-![Telegram](https://img.shields.io/badge/Telegram-090909?logo=telegram)
-
+[![Stepik](https://stepik.org/users/546768757/profile)](https://img.shields.io/badge/Stepik-090909?logo=stepik)
+[![SQL Academy](https://sql-academy.org/ru/profile/204238)](https://img.shields.io/badge/SQL%20Academy-090909?logo=database)
+[![Telegram](https://t.me/pbnne1)](https://img.shields.io/badge/Telegram-090909?logo=telegram)
+[![Website](https://pbnne.github.io/qa-web-testing/)](https://img.shields.io/badge/Website-090909?logo=link&label=Visit%20My%20Site)
