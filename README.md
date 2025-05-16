@@ -4,6 +4,8 @@
 
 ### Latest Stepick 
 ![Flutter](https://img.shields.io/badge/any_text-you_like-blue)
+![SQL](https://img.shields.io/badge/SQL-Active-blue)
+
 
 Languages and Tools
 
