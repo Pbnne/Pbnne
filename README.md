@@ -4,9 +4,9 @@
 
 ### Latest Stepick 
 ![Flutter](https://img.shields.io/badge/any_text-you_like-blue)
-![SQL](https://img.shields.io/badge/SQL-Active-blue?logo=MySQL)
-![Python](https://img.shields.io/badge/Python-Active-blue?logo=python)
-![Postman](https://img.shields.io/badge/Postman-Active-orange?logo=postman)
+![SQL](https://img.shields.io/badge/SQL-090909?logo=mysql)
+![Postman](https://img.shields.io/badge/Postman-090909?logo=postman)
+![Python](https://img.shields.io/badge/Python-090909?logo=python)
 
 
 Languages and Tools
