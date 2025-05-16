@@ -14,4 +14,4 @@
 [![Stepik](https://img.shields.io/badge/Stepik-090909?logo=stepik)](https://stepik.org/users/546768757/profile)
 [![SQL Academy](https://img.shields.io/badge/SQL%20Academy-090909?logo=database)](https://sql-academy.org/ru/profile/204238)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?logo=telegram)](https://t.me/pbnne1)
-[![Website](https://img.shields.io/badge/Website-090909?logo=link&label=Visit%20My%20Site)](https://pbnne.github.io/qa-web-testing/)
+[![Website](https://img.shields.io/badge/Website-090909?logo=link)](https://pbnne.github.io/qa-web-testing/)
