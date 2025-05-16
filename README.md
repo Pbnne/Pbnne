@@ -3,7 +3,7 @@
 ## About me
 
 ### Latest Stepick 
-![Flutter](https://img.shields.io/-<MESSAGE>-<COLOR>)
+![Flutter](https://img.shields.io/-hi-09574)
 
 Languages and Tools
 
