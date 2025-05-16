@@ -3,7 +3,7 @@
 ## About me
 
 ### Latest Stepick 
-![Flutter] (https://img.shields.io/badge/1)
+![Flutter] ([https://img.shields.io/badge/1](https://img.shields.io/badge/any_text-you_like-blue))
 
 Languages and Tools
 
