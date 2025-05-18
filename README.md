@@ -17,3 +17,4 @@ I’m Pavel Dmitrievich, a dedicated QA Specialist with a passion for identifyin
 [![Header](https://img.shields.io/badge/SQL%20Academy-090909?logo=database)](https://sql-academy.org/ru/profile/204238)
 [![Header](https://img.shields.io/badge/Telegram-090909?logo=telegram)](https://t.me/pbnne1)
 [![Header](https://img.shields.io/badge/Website-090909?logo=link)](https://pbnne.github.io/qa-web-testing/)
+echo -e "\e[31mЭто красный текст\e[0m"
