@@ -1,4 +1,4 @@
-![Header](meditation_calmness_harmony_122011_2560x1080.jpg)
+![Header](assets/meditation_calmness_harmony_122011_2560x1080.jpg)
 
 ## About me
 
