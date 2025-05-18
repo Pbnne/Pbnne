@@ -1,6 +1,6 @@
 ![Header](assets/meditation_calmness_harmony_122011_2560x1080.jpg)
 
-#Greetings 👋
+# Greetings 👋
 I’m Pavel Dmitrievich, a dedicated QA Specialist with a passion for identifying bugs and enhancing software quality. My goal is to ensure seamless user experiences by collaborating closely with developers and applying meticulous testing methodologies. Committed to improving software, one bug at a time! 🐞🚀
 
 ### My skills
