@@ -16,3 +16,14 @@
 [![Header](https://img.shields.io/badge/SQL%20Academy-090909?logo=database)](https://sql-academy.org/ru/profile/204238)
 [![Header](https://img.shields.io/badge/Telegram-090909?logo=telegram)](https://t.me/pbnne1)
 [![Header](https://img.shields.io/badge/Website-090909?logo=link)](https://pbnne.github.io/qa-web-testing/)
+
+## Test Cases
+
+### Test Case 1: User Login
+- **Objective**: Verify that users can log in successfully with valid credentials.
+- **Preconditions**: User must be registered.
+- **Steps**:
+  1. Navigate to the login page.
+  2. Enter valid username and password.
+  3. Click on the "Login" button.
+- **Expected Result**: User is redirected to the dashboard.
