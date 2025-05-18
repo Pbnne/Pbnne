@@ -1,4 +1,4 @@
-![Header](https://github.com/Pbnne/Pbnne/blob/main/assets/d846912c912e550e3ff80a4542262e8c.jpg)
+![Header](meditation_calmness_harmony_122011_2560x1080.jpg)
 
 ## About me
 
