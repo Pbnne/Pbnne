@@ -19,7 +19,9 @@
 
 ## Test Cases
 
-### Test Case 1: User Login
+<details>
+<summary>Test Case 1: User Login</summary>
+
 - **Objective**: Verify that users can log in successfully with valid credentials.
 - **Preconditions**: User must be registered.
 - **Steps**:
