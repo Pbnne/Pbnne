@@ -31,8 +31,3 @@ I’m Pavel Dmitrievich, a dedicated QA Specialist with a passion for identifyin
 [![Telegram](https://img.shields.io/badge/Telegram-3E3E3E?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/pbnne1)
 [![Website](https://img.shields.io/badge/Website-4F4F4F?logo=link&logoColor=white&style=for-the-badge)](https://pbnne.github.io/qa-web-testing/)
 ---
-
-[![Stepik](https://img.shields.io/badge/Stepik-1C1C1C?logo=stepik&logoColor=white&style=for-the-badge)](https://stepik.org/users/546768757/profile)
-[![SQL Academy](https://img.shields.io/badge/SQL%20Academy-2D2D2D?logo=database&logoColor=white&style=for-the-badge)](https://sql-academy.org/ru/profile/204238)
-[![Telegram](https://img.shields.io/badge/Telegram-3E3E3E?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/pbnne1)
-[![Website](https://img.shields.io/badge/Website-4F4F4F?logo=link&logoColor=white&style=for-the-badge)](https://pbnne.github.io/qa-web-testing/)
