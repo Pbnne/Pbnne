@@ -20,9 +20,9 @@ I’m Pavel Dmitrievich, a dedicated QA Specialist with a passion for identifyin
 
 | Skill         | Level        |
 |---------------|--------------|
-| SQL           | ⭐⭐⭐⭐⭐       |
-| Postman       | ⭐⭐⭐⭐        |
-| Python        | ⭐⭐⭐⭐⭐       |
-| HTML          | ⭐⭐⭐⭐        |
-| CSS           | ⭐⭐⭐⭐        |
-| PostgreSQL    | ⭐⭐⭐⭐⭐       |
+|![SQL](https://img.shields.io/badge/SQL-090909?logo=mysql)| ⭐⭐⭐⭐⭐       |
+|![Postman](https://img.shields.io/badge/Postman-090909?logo=postman)| ⭐⭐⭐⭐        |
+|![Python](https://img.shields.io/badge/Python-090909?logo=python)| ⭐⭐⭐⭐⭐       |
+|![HTML](https://img.shields.io/badge/HTML-090909?logo=html5)| ⭐⭐⭐⭐        |
+|![CSS](https://img.shields.io/badge/CSS-090909?logo=css3)| ⭐⭐⭐⭐        |
+|![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?logo=postgresql)| ⭐⭐⭐⭐⭐       |
