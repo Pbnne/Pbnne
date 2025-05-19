@@ -24,7 +24,7 @@ I’m Pavel Dmitrievich, a dedicated QA Specialist with a passion for identifyin
 - Explore new technologies and tools to improve software quality.
 
 
-# 🌟 Follow Me 🌟
+#  Follow Me 
 ---
 [![Stepik](https://img.shields.io/badge/Stepik-090909?logo=stepik&logoColor=white&style=for-the-badge)](https://stepik.org/users/546768757/profile)
 [![SQL Academy](https://img.shields.io/badge/SQL%20Academy-090909?logo=database&logoColor=white&style=for-the-badge)](https://sql-academy.org/ru/profile/204238)
