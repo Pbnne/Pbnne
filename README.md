@@ -13,6 +13,7 @@ I’m Pavel Dmitrievich, a dedicated QA Specialist with a passion for identifyin
 | ![HTML](https://img.shields.io/badge/HTML-090909?logo=html5)       | ⭐⭐⭐⭐        | Разметка веб-страниц         |
 | ![CSS](https://img.shields.io/badge/CSS-090909?logo=css3)          | ⭐⭐⭐⭐        | Стилизация веб-страниц       |
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?logo=postgresql) | ⭐⭐⭐⭐⭐       | Работа с реляционными БД     |
+| ![DevTools](https://img.shields.io/badge/DevTools-090909?logo=googlechrome) | ⭐⭐⭐⭐⭐       | Работа с DevTools     |
 
 ### 🌟 Achievements
 - **SQL**: Experience working with various databases, including MySQL and PostgreSQL.
