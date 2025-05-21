@@ -240,7 +240,7 @@ I’m Pavel Dmitrievich, a dedicated QA Specialist with a passion for identifyin
 |Серьезность| Значительный (Major)|
 |Описание||
 |Доп.материалы|https://disk.yandex.ru/i/kUn5ugxVc_tcPA|
-</details> <details><summary>Bug reports</summary>
+</details>
 
 
 
