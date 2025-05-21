@@ -6,6 +6,7 @@ I’m Pavel Dmitrievich, a dedicated QA Specialist with a passion for identifyin
 ### My skills
 | Skill         | Level        | Description                  |
 |---------------|--------------|------------------------------|
+| ![Testing Theory](https://img.shields.io/badge/Testing%20Theory-090909?logo=book)|⭐⭐⭐⭐⭐ | Теории тестирования       |
 | ![SQL](https://img.shields.io/badge/SQL-090909?logo=mysql)        | ⭐⭐⭐⭐⭐       | Работа с базами данных       |
 | ![Postman](https://img.shields.io/badge/Postman-090909?logo=postman) | ⭐⭐⭐⭐        | Тестирование API             |
 | ![Python](https://img.shields.io/badge/Python-090909?logo=python)  | ⭐⭐⭐⭐⭐       | Скриптование и автоматизация |
