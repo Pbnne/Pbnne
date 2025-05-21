@@ -31,3 +31,4 @@ I’m Pavel Dmitrievich, a dedicated QA Specialist with a passion for identifyin
 [![Telegram](https://img.shields.io/badge/Telegram-3E3E3E?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/pbnne1)
 [![Website](https://img.shields.io/badge/Website-4F4F4F?logo=link&logoColor=white&style=for-the-badge)](https://pbnne.github.io/qa-web-testing/)
 ---
+<details><summary> Подробнее </summary>  
