@@ -133,7 +133,7 @@ I’m Pavel Dmitrievich, a dedicated QA Specialist with a passion for identifyin
 |4| Перейти на вкладку "Книги"| Отображаются все книги этого автора|
 
 
-<details><summary> Check list </summary>  
+</details> <details><summary>Check list</summary>
 
 ## Задание
 Составить один чек-лист для проверки одной функциональности.
