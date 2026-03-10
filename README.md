@@ -1,7 +1,5 @@
 ![Header](assets/meditation_calmness_harmony_122011_2560x1080.jpg)
 
-# Greetings 👋
-I’m Pavel Dmitrievich, a dedicated QA Specialist with a passion for identifying bugs and enhancing software quality. My goal is to ensure seamless user experiences by collaborating closely with developers and applying meticulous testing methodologies. Committed to improving software, one bug at a time! 🐞🚀
 
 ### My skills
 | Skill         | Level        | Description                  |
@@ -15,15 +13,6 @@ I’m Pavel Dmitrievich, a dedicated QA Specialist with a passion for identifyin
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?logo=postgresql) | ⭐⭐⭐⭐⭐       | Работа с реляционными БД     |
 | ![DevTools](https://img.shields.io/badge/DevTools-090909?logo=googlechrome) | ⭐⭐⭐⭐⭐       | Работа с DevTools     |
 
-### 🌟 Achievements
-- **SQL**: Experience working with various databases, including MySQL and PostgreSQL.
-- **Postman**: The ability to create and execute API tests to ensure quality.
-- **Python**: Used to automate testing and script writing.
-- **HTML/CSS**: Knowledge of the basics of web development for creating user interfaces.
-
-### 🎯 Goals
-- Continue to develop your skills in testing and automation.
-- Explore new technologies and tools to improve software quality.
 
 
 <details><summary> Test cases </summary>  
